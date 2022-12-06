@@ -9,9 +9,8 @@ I'm a MEARN Stack Developer who is passionate about making error-free website wi
 Skills: HTML/ CSS / JS / REACT / MongoDB / Express / Node ;
 
 
-Skills: MongoDB / Express / Node  / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning MERN 
 - 💬 Ask me about MERN Stack Development 
 
@@ -20,8 +19,6 @@ Skills: MongoDB / Express / Node  / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanIbnaKabir)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SalmanIbnaKabir&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SalmanIbnaKabir)  
+ 
 
 ![Profile views](https://gpvc.arturio.dev/SalmanIbnaKabir)  
