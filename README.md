@@ -1,6 +1,8 @@
+![MEARN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png)
+
 ### Hi there 👋, I'm Salman Ibna Kabir
 #### MEARN Stack Developer
-![MEARN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png)
+
 
 I'm a MEARN Stack Developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with other as publicly as possible. I am strategic, goal-oriented  and always work with an end goal in mind.
 
