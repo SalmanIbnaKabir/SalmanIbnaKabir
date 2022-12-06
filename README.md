@@ -1,6 +1,3 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SalmanIbnaKabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/salmanibnakabir) 
-
-
 ### Hi there 👋, I'm Salman Ibna Kabir
 #### MEARN Stack Developer
 ![MEARN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png)
@@ -17,7 +14,7 @@ Skills: MongoDB / Express / Node  / REACT / JS / HTML / CSS
 - 💬 Ask me about MERN Stack Development 
 
 
- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SalmanIbnaKabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/salmanibnakabir)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SalmanIbnaKabir)](https://github.com/ryo-ma/github-profile-trophy)
 
