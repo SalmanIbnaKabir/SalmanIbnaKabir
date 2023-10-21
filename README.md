@@ -4,9 +4,9 @@
 #### MEARN Stack Developer
 
 
-I'm a MEARN Stack Developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with other as publicly as possible. I am strategic, goal-oriented  and always work with an end goal in mind.
+I'm a MEARN Stack Developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with other as publicly as possible. I am strategic, and goal-oriented  and always work with an end goal in mind.
 
-Skills: HTML/ CSS / JS / REACT / MongoDB / Express / Node ;
+Skills: HTML/ CSS / JS / REACT / MongoDB / Express / NodeJs / TypeScript / Redux / PostgreSQL / NextJs / SQL /  ;
 
 
 
