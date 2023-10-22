@@ -11,7 +11,7 @@ Skills: HTML/ CSS / JS / REACT / MongoDB / Express / NodeJs / TypeScript / Redux
 
 
 
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning React Native 
 - 💬 Ask me about MERN Stack Development 
 
 
