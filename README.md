@@ -55,4 +55,5 @@ I'm a MEARN Stack Developer who is passionate about making an error-free website
 
  
 
-![Profile views](https://gpvc.arturio.dev/SalmanIbnaKabir)  
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SalmanIbnaKabir./tree/main)
+
