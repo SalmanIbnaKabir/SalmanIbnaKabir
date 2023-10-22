@@ -9,7 +9,8 @@ I'm a MEARN Stack Developer who is passionate about making an error-free website
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about MERN Stack Development 
 <!-- Skills: HTML/ CSS / JS / REACT / MongoDB / Express / NodeJs / TypeScript / Redux / PostgreSQL / NextJs / SQL -->
-![Profile Views](https://komarev.com/ghpvc/?username=SalmanIbnaKabir)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalmanIbnaKabir&label=Profile%20views&color=E4405F&style=flat" alt="SalmanIbnaKabir" /> </p>
 
 ## 💻 Languages and Tools:
 
