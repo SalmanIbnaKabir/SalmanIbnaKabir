@@ -6,6 +6,8 @@
 
 I'm a MEARN Stack Developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with other as publicly as possible. I am strategic, and goal-oriented  and always work with an end goal in mind.
 
+- 🌱 I’m currently learning React Native 
+- 💬 Ask me about MERN Stack Development 
 <!-- Skills: HTML/ CSS / JS / REACT / MongoDB / Express / NodeJs / TypeScript / Redux / PostgreSQL / NextJs / SQL -->
 
 ## 💻 Languages and Tools:
@@ -45,8 +47,7 @@ I'm a MEARN Stack Developer who is passionate about making an error-free website
 
 
 
-- 🌱 I’m currently learning React Native 
-- 💬 Ask me about MERN Stack Development 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SalmanIbnaKabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/salmanibnakabir)  
