@@ -58,6 +58,6 @@ I'm a MEARN Stack Developer who is passionate about making an error-free website
 
  
 
-![Profile Views](https://komarev.com/ghpvc/?username=SalmanIbnaKabir)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=SalmanIbnaKabir) -->
 
 
