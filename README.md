@@ -1,6 +1,6 @@
 ![MEARN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png)
 
-### Hi I'm Salman Ibna Kabir 👋
+### Hi I'm Md. Kabir Ibna Salman 👋
 #### MEARN Stack Developer
 
 
