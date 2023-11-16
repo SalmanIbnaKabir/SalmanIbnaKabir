@@ -1,5 +1,5 @@
 <!-- ![MEARN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png) -->
-![MERN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png)
+![MERN Stack Developer](Screenshot-6.png)
 
 
 
