@@ -1,5 +1,7 @@
 <!-- ![MEARN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png) -->
-<img src={https://i.ibb.co/kQdDjx0/Screenshot-6.png} />
+![MERN Stack Developer](https://i.ibb.co/kQdDjx0/Screenshot-6.png)
+
+
 
 ### Hi I'm Md. Kabir Ibna Salman 👋
 #### MEARN Stack Developer
