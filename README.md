@@ -4,10 +4,10 @@
 
 
 ### Hi I'm Md. Kabir Ibna Salman 👋
-#### MEARN Stack Developer
+#### MERN Stack Developer
 
 
-I'm a MEARN Stack Developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with other as publicly as possible. I am strategic, and goal-oriented  and always work with an end goal in mind.
+I'm a MERN Stack and Next.js Web  Developer who is passionate about making an error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with other as publicly as possible. I am strategic, and goal-oriented  and always work with an end goal in mind.
 
 - 🌱 I’m currently learning React Native 
 - 💬 Ask me about MERN Stack Development 
